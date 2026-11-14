@@ -4,7 +4,7 @@ Sönümlü ve zorlamalı bir harmonik osilatörü sayısal olarak çözen, sonuc
 
 İlk sürümü üretken yapay zeka (Gemini) ile oluşturuldu. Sonra kod fiziksel ve sayısal hatalar açısından incelendi, test edildi ve düzeltildi. Bu süreç aşağıda "Geliştirme süreci" bölümünde anlatılıyor.
 
-[ekran görüntüsü](screenshot.png)
+![ekran görüntüsü](screenshot.png)
 
 ## Fizik
 
