@@ -1,3 +1,4 @@
+<img width="1173" height="634" alt="screenshot" src="https://github.com/user-attachments/assets/2257982a-9cae-41ab-8c76-45856ca11905" />
 
 
 # PhysLab AI — Sönümlü & Zorlamalı Harmonik Osilatör
@@ -10,7 +11,7 @@ scipy>=1.11Ω
 
 İlk sürümü üretken yapay zeka (Gemini) ile oluşturuldu. Sonra kod fiziksel ve sayısal hatalar açısından incelendi, test edildi ve düzeltildi. Bu süreç aşağıda "Geliştirme süreci" bölümünde anlatılıyor.
 
-![ekran görüntüsü](screenshot_1.png)
+![ekran görüntüsü](screenshot.png)
 
 ## Fizik
 
