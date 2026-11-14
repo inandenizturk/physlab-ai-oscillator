@@ -1,4 +1,6 @@
+<img width="1272" height="737" alt="screenshot_1" src="https://github.com/user-attachments/assets/60f1f0a4-971a-4405-92b3-f335d1415696" />
 [requirements.txt](https://github.com/user-attachments/files/34862321/requirements.txt)
+
 # PhysLab AI — Sönümlü & Zorlamalı Harmonik Osilatör
 
 Sönümlü ve zorlamalı bir harmonik osilatörü sayısal olarak çözen, sonucu analitik çözümle karşılaştırarak **doğrulayan** interaktif bir web uygulaması.
