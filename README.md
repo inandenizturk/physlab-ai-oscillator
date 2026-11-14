@@ -1,10 +1,15 @@
+[requirements.txt](https://github.com/user-attachments/files/34862321/requirements.txt)
 # PhysLab AI — Sönümlü & Zorlamalı Harmonik Osilatör
 
 Sönümlü ve zorlamalı bir harmonik osilatörü sayısal olarak çözen, sonucu analitik çözümle karşılaştırarak **doğrulayan** interaktif bir web uygulaması.
+fastapi>=0.110
+uvicorn>=0.29
+numpy>=1.26
+scipy>=1.11Ω
 
 İlk sürümü üretken yapay zeka (Gemini) ile oluşturuldu. Sonra kod fiziksel ve sayısal hatalar açısından incelendi, test edildi ve düzeltildi. Bu süreç aşağıda "Geliştirme süreci" bölümünde anlatılıyor.
 
-![ekran görüntüsü](screenshot.png)
+![ekran görüntüsü](screenshot_1.png)
 
 ## Fizik
 
